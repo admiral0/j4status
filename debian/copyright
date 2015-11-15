@@ -1,10 +1,9 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: j4status
-Source: <url://example.com>
+Source: http://github.com/sardemff7/j4status
 
 Files: *
-Copyright: <years> <put author's name and email here>
-           <years> <likewise for another author>
+Copyright: 2012-2015 Quentin “Sardem FF7” Glidic
 License: GPL-3.0+
 
 Files: debian/*
